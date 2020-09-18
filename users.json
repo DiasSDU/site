@@ -1,0 +1,10 @@
+{
+    "users": [
+      {
+        "name": "admin",
+        "nickname": "admin",
+        "password": "admin",
+        "email":"admin@index.com"
+      }
+    ]
+  }
